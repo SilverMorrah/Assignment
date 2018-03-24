@@ -1,0 +1,20 @@
+ASSESSMENT
+
+
+* DESIGN AND THOUGHT PROCESS
+
+
+** VERSION CONTROL : 
+	-Git
+	-GitHub
+	-BitBucket
+
+***SOFTWARE DEVELOPMENT PRINCIPLES AND PROCESS
+
+
+****HARD SKILLS :
+	-FrontEnd:{HTML,CSS,JS}
+	-DB:{SQL, MYSQL, MYSQLITE}
+	-BackEnd :{PHP, JS}
+	-Functional Programing
+	-OOP
